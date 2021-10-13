@@ -1,6 +1,7 @@
 hello git! hello world! 2222222222
 hello git! hello world! 3333333333
 hello git! hello world! hot-fix
+hello git! hello world! 
 hello git! hello world!
 hello git! hello world!
 hello git! hello world!
@@ -8,8 +9,7 @@ hello git! hello world!
 hello git! hello world!
 hello git! hello world!
 hello git! hello world!
-hello git! hello world!
-hello git! hello world!
+hello git! hello world! 这是我用hot-fix来测试合并的
 hello git! hello world!
 hello git! hello world!
 hello git! hello world!
